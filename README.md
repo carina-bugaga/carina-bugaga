@@ -1,7 +1,6 @@
-Привет 👋 Меня зовут Карина)
-========================
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&random=false&width=500&height=35&lines=%3Ch1%3E%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%F0%9F%91%8B%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%9A%D0%B0%D1%80%D0%B8%D0%BD%D0%B0%3C%2Fh1%3E)](https://git.io/typing-svg)
 
-Frontend Developer
+Frontend Developer :woman_technologist:
 ------------------
 
 Я начинающий веб-разработчик, программирую уже 4 года. Год назад начала изучение HTML, CSS, JavaScript. Разрабатывала простые веб-приложения, с каждым разом усложняя задачи и осваивая новые библиотеки и фреймворки. Сейчас обучаюсь на интенсиве, различный курсах.
@@ -34,3 +33,7 @@ Frontend Developer
 <p align="left"> <a href="https://codesandbox.io/u/carina-bugaga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.github.com/carina-bugaga" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
 <img src="https://www.codewars.com/users/CarinaBugaga/badges/large?theme=light"/>
+
+### Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carina-bugaga&layout=compact)
